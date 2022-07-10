@@ -16,29 +16,30 @@ global.APIKeys = {
 global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = ` *Hi 🥰 I m*
-*ＮＯＩＺ Ξ*
-*I am 16 years old developer...*
+*ＡＭＩＹＡ Ξ*
+*I am 14 years old developer...*
 *From Sri Lanka 🇱🇰*
 *I am a Learning.*
 *Not more..*
 *Also I am Student*
-*Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
-global.owner =  ['+94711502119'] //👈  Enter Your number
-global.premium =  ['+94711502119'] //👈  Enter Your number
-global.ownernomer = '+94711502119' //👈  Enter Your number
-global.ownername = 'ZENOI' //👈 Enter Your name
-global.botname = 'ＧＡＲＦＩＥＬＤ ＢＯＴ ｖ8.3' //👈 Enter Your Bot name
-global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 𝖦𝖺𝗋𝖿𝗂𝖾𝗅𝖽 𝖡𝗈𝗍' //👈 Enter Your Name
-global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
+*Follow Me on Youtube - https://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ*
+*Follow Me on Github - https://github.com/TechwithAmee1/*`  // 👈 Enter Your details and Social Media Links and Anything
+global.owner =  ['+94767453646'] //👈  Enter Your number
+global.premium =  ['+94767453646'] //👈  Enter Your number
+global.ownernomer = '+94767453646' //👈  Enter Your number
+global.ownername = 'AMIYA' //👈 Enter Your name
+global.botname = 'ＡＭＩＹＡ ＧＡＲＦＩＥＬＤ ＢＯＴ ｖ8.3' //👈 Enter Your Bot name
+global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 Amiya 𝖡𝗈𝗍s' //👈 Enter Your Name
+global.ig = 'https://github.com/TechwithAmee1/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
 global.region = 'India, South India, Kerala' // 👈 You Can change this your choice
-global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
-global.myweb = 'https://www.facebook.com/garfieldbots/' // 👈 Enter your Social media link to follow now button
-global.packname = 'GARFIELD-BOTv8'  // 👈 You Can change this your choice 
-global.author = 'NOIZE DEVELOPMENT' // 👈 You Can change this your choice 
+global.sc = 'https://github.com/TechwithAmee1/GARFIELD-WHATSAPP-BOT-v8'
+global.myweb = 'https://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ' // 👈 Enter your Social media link to follow now button
+global.packname = 'AMIYA GARFIELD-BOTv8'  // 👈 You Can change this your choice 
+global.author = 'AMIYA DEVELOPMENT' // 👈 You Can change this your choice 
 global.sessionName = 'session' // 👈 You Can change this your choice
 global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
-global.thumb =  'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png' 
+global.thumb =  'https://ibb.co/B6Mxt0Q' 
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
 global.sp = '⭔'
 global.mess = {

@@ -24,7 +24,7 @@ global.notice = ` *Hi 🥰 I am*
 *Also I am Student*
 *Follow Me on Youtube - https://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ*
 *Follow Me on Github - https://github.com/TechwithAmee1/*
-*Contact Me on WhatsApp - http://wa.me/+94767453646?text=HI_bro🥰`  // 👈 Enter Your details and Social Media Links and Anything
+*Contact Me on WhatsApp - http://wa.me/+94767453646?text=HI_bro🥰*`  // 👈 Enter Your details and Social Media Links and Anything
 global.owner =  ['+94767453646'] //👈  Enter Your number
 global.premium =  ['+94767453646'] //👈  Enter Your number
 global.ownernomer = '+94767453646' //👈  Enter Your number

@@ -15,19 +15,20 @@ global.APIKeys = {
 // 👈 You Can change this your choice
 global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
-global.notice = ` *Hi 🥰 I m*
-*ＡＭＩＹＡ Ξ*
+global.notice = ` *Hi 🥰 I am*
+*៚ᴍʀͥ.ᴀͣᴍͫɪʏᴀ͢⁸⁵⁴¹⃟✦⃝̮̮〽️ Ξ*
 *I am 14 years old developer...*
 *From Sri Lanka 🇱🇰*
 *I am a Learning.*
 *Not more..*
 *Also I am Student*
 *Follow Me on Youtube - https://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ*
-*Follow Me on Github - https://github.com/TechwithAmee1/*`  // 👈 Enter Your details and Social Media Links and Anything
+*Follow Me on Github - https://github.com/TechwithAmee1/*
+*Contact Me on WhatsApp - http://wa.me/+94767453646?text=HI_bro🥰`  // 👈 Enter Your details and Social Media Links and Anything
 global.owner =  ['+94767453646'] //👈  Enter Your number
 global.premium =  ['+94767453646'] //👈  Enter Your number
 global.ownernomer = '+94767453646' //👈  Enter Your number
-global.ownername = 'AMIYA' //👈 Enter Your name
+global.ownername = '៚ᴍʀͥ.ᴀͣᴍͫɪʏᴀ͢⁸⁵⁴¹⃟✦⃝̮̮〽️' //👈 Enter Your name
 global.botname = 'ＡＭＩＹＡ ＢＯＴ ｖ8.3' //👈 Enter Your Bot name
 global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 Amiya 𝖡𝗈𝗍s' //👈 Enter Your Name
 global.ig = 'https://github.com/TechwithAmee1/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
@@ -39,7 +40,7 @@ global.author = 'AMIYA DEVELOPMENT' // 👈 You Can change this your choice
 global.sessionName = 'session' // 👈 You Can change this your choice
 global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
-global.thumb =  'https://ibb.co/B6Mxt0Q' 
+global.thumb =  'https://i.ibb.co/pKF8xYM/logo.png' 
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
 global.sp = '⭔'
 global.mess = {
